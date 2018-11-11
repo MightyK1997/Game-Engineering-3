@@ -1,0 +1,25 @@
+{
+"m_AllStealthLevels":[
+{
+  "m_Level": 1,
+  "m_CostToUpgrade": 3,
+  "m_AbilityDuration": 5,
+  "CooldownTime": 20,
+  "CastTime": 1
+},
+{
+  "m_Level": 2,
+  "m_CostToUpgrade": 4,
+  "m_AbilityDuration": 6,
+  "CooldownTime":16,
+  "CastTime": 0.75
+},
+{
+  "m_Level": 3,
+  "m_CostToUpgrade": 0.0,
+  "m_AbilityDuration": 7,
+  "CooldownTime": 12,
+  "CastTime": 0.5
+}
+]
+}

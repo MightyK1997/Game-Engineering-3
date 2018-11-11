@@ -1,0 +1,18 @@
+Assignment Notes
+
+Assignment: 4
+Student: Sai Pavan Koundinya Upadhyayula
+
+What are the controls for the locally controlled unit?
+Right Click to Move to location. Click on the Unit to show the ability UI. Use the buttons to cast the ability
+
+What workflow enhancement did you implement in the editor?
+The only enhancement i made to the editor is to add UI for Island editor by adding slider to increase or decrease the size of the
+island
+
+Any other comments?
+1. All the ability details are dynamically loaded from JSON files, which can be modified easily.
+2. The level of each upgrade for the abilities is stored in another JSON file, which is then used to load the appropriate data
+from the ability JSON files.
+3. This results in having a system that can contain more than 3 upgrades and can be easily scaled to multiple abilities and items.
+4. Had to change the rendering mode of material from default to transparent, so that stealth can be used.

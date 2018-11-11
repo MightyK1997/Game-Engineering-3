@@ -1,0 +1,43 @@
+{
+"m_AllMeteorLevels":[
+{
+  "m_Level": 1,
+  "m_CostToUpgrade": 3,
+  "m_ImpactDamage": 10,
+  "m_RollDamage": 5,
+  "m_FallTime": 1,
+  "m_ImpactForce": 100,
+  "m_ImpactRange": 5,
+  "m_RollSpeed": 1,
+  "m_RollDuration": 2,
+  "CooldownTime": 15,
+  "CastTime": 1
+},
+{
+  "m_Level": 2,
+  "m_CostToUpgrade": 4,
+  "m_ImpactDamage": 15,
+  "m_RollDamage": 10,
+  "m_FallTime": 0.5,
+  "m_ImpactForce": 300,
+  "m_ImpactRange": 7.5,
+  "m_RollSpeed": 2,
+  "m_RollDuration": 3,
+  "CooldownTime": 12,
+  "CastTime": 0.75
+},
+{
+  "m_Level": 3,
+  "m_CostToUpgrade": 0.0,
+  "m_ImpactDamage": 30,
+  "m_RollDamage": 15,
+  "m_FallTime": 0.25,
+  "m_ImpactForce": 500,
+  "m_ImpactRange": 10,
+  "m_RollSpeed": 3,
+  "m_RollDuration": 4,
+  "CooldownTime": 9,
+  "CastTime": 0.5
+}
+]
+}
